@@ -1,0 +1,1 @@
+"""@author: emretosun"""from Modules.mathModule import multiply;multiply(2, 86);

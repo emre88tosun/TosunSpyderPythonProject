@@ -1,0 +1,1 @@
+"""@author: emretosun"""ratio = 0.621371192;km = int(input("Km value =? " ));mile = km * ratio;print(str(km) + " km equals " + str(mile) + " mile.");
